@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ru-min
 - 👀 I’m interested in cloud computing and cybersecurity
 - 🌱 I’m currently learning cloud computing and devOps (specialise in Azure)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.linkedin.com/in/rumin-tan
 <!---
 ru-min/ru-min is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
